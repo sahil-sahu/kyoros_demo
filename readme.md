@@ -2,6 +2,10 @@
 
 Kyoros is a project that simulates ICU readings like blood pressure (BP) and heart rate (bpm) and shares them with the backend. In the client application, users (hospital staff) can monitor patient behavior in real-time and receive notifications on patients exhibiting abnormal behavior.
 
+## Demo Video
+
+https://github.com/sahil-sahu/kyoros_demo/assets/65727965/4e0b1f63-c27d-46e7-8fc0-fc9630aed314
+
 ## Technical Overview
 
 ### Tech Stack
